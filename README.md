@@ -1,4 +1,4 @@
-# cytoscape
+# Cytoscape
  The github repository was originally set up to complete a course assignment for the “Introduction to Bioinformatics” course in the fall of 2023. 
  
  In order to better understand and build network diagrams, the author starts with the introduction of the use of Cytoscape software, and at the same time, a deeper exploration of Python, R, and network diagram visualization is carried out
