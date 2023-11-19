@@ -1,0 +1,12 @@
+Top 10 in network string_interactions_short.tsv ranked by MCC method
+Rank,Name,Score
+1,IL1B,530.0
+2,IL6,504.0
+3,ALB,492.0
+4,MMP9,408.0
+5,CYBB,318.0
+6,CASP1,270.0
+7,GZMB,124.0
+8,MMP2,120.0
+9,MAOB,54.0
+10,UCP2,48.0
